@@ -1,0 +1,11 @@
+#phone{
+    width: 280px;
+    height: 500px;
+    background: black;
+    background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#2F2727), to(#1a82f7));
+
+}
+
+#thecode{
+    width: 500px;
+}
