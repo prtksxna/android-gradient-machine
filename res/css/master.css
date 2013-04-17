@@ -1,11 +1,18 @@
-#phone{
+#bezel{
     width: 280px;
-    height: 500px;
+    height: 527px;
+    background-image: url('../img/phone.png');
+    padding-top: 60px;
+    padding-left: 20px;
+}
+#phone{
+    width: 260px;
+    height: 440px;
     background: black;
     background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#2F2727), to(#1a82f7));
 
 }
 
 #thecode{
-    width: 500px;
+    width: 600px;
 }
